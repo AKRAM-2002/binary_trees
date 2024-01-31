@@ -46,6 +46,36 @@ After completing this project, you should be able to explain the following conce
 | Task     | Description |
 |------    |-------------|
 | 0. New node   |  function that creates a binary tree node |
-| Task 1        |   Description for Task 1 |
-| ...           | ...                      |
+| 1. Insert left      |   function that inserts a node as the left-child of another node |
+| 2. Insert right        |  function that inserts a node as the right-child of another node                       |
+| 3. Delete   |  function that deletes an entire binary tree |
+| 4. Is leaf             |    function that checks if a node is a leaf                                   |
+| 5. Is root            |  function that checks if a given node is a root                                     |
+| 6. Pre-order traversal           |  function that goes through a binary tree using pre-order traversal                                     |
+| 7. In-order traversal            |  function that goes through a binary tree using in-order traversal                                    |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
+|             |                                       |
 | Task N        | Description for Task N |

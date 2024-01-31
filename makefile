@@ -3,7 +3,7 @@ CFLAGS = -Wall -Wextra -pedantic -std=c90
 INCLUDES = -I.
 
 # List of source files
-SRC_FILES = 0-binary_tree_node.c binary_tree_print.c tests/0-main.c
+SRC_FILES = $(wildcard *.c) $(wildcard tests/8-main.c) #depends on the main file you wanna execute
 
 # List of object files (one for each source file)
 OBJ_FILES = $(SRC_FILES:.c=.o)
