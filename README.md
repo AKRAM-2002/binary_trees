@@ -53,12 +53,12 @@ After completing this project, you should be able to explain the following conce
 | 5. Is root            |  function that checks if a given node is a root                                     |
 | 6. Pre-order traversal           |  function that goes through a binary tree using pre-order traversal                                     |
 | 7. In-order traversal            |  function that goes through a binary tree using in-order traversal                                    |
-|             |                                       |
-|             |                                       |
-|             |                                       |
-|             |                                       |
-|             |                                       |
-|             |                                       |
+|  8. Post-order traversal           |   function that goes through a binary tree using post-order traversal                                    |
+|  9. Height           |   function that measures the height of a binary tree                                     |
+|  10-binary_tree_depth.c           |   function that measures the depth of a node in a binary tree                                    |
+|  11. Size            |   function that measures the size of a binary tree                                     |
+|  12. Leaves            |   function that counts the leaves in a binary tree                                    |
+|  13. Nodes           |    function that counts the nodes with at least 1 child in a binary tree                                   |
 |             |                                       |
 |             |                                       |
 |             |                                       |
