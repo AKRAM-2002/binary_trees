@@ -3,7 +3,7 @@ CFLAGS = -Wall -Wextra -pedantic -std=c90
 INCLUDES = -I.
 
 # List of source files
-SRC_FILES = $(wildcard *.c) $(wildcard tests/13-main.c) #depends on the main file you wanna execute
+SRC_FILES = $(wildcard *.c) $(wildcard tests/15-main.c) #depends on the main file you wanna execute
 
 # List of object files (one for each source file)
 OBJ_FILES = $(SRC_FILES:.c=.o)

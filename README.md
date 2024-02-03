@@ -59,8 +59,8 @@ After completing this project, you should be able to explain the following conce
 |  11. Size            |   function that measures the size of a binary tree                                     |
 |  12. Leaves            |   function that counts the leaves in a binary tree                                    |
 |  13. Nodes           |    function that counts the nodes with at least 1 child in a binary tree                                   |
-|             |                                       |
-|             |                                       |
+|  14. Balance factor           |   function that measures the balance factor of a binary tree                                    |
+|  15-binary_tree_is_full.c           |  function that checks if a binary tree is full                                     |
 |             |                                       |
 |             |                                       |
 |             |                                       |
